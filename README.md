@@ -14,6 +14,13 @@
 npm i radvideo -s
 ```
 
+也可以pull本仓库后运行：
+```bash
+npm i
+npm run build
+```
+自己构建
+
 ### 说明与使用
 
 1.由于只是封装单个组件，所以不采用复杂的脚手架项目结构
